@@ -1,9 +1,8 @@
-
 <h2 align="left">Hi 👋! I'm Alicia Cortínez López.</h2>
 
 ###
 
-<h3 align="left">Full Stack Development student merging creativity and logic to breathe life into digital projects.💻✨</h3>
+<h3 align="center">Full Stack Development student merging creativity and logic to breathe life into digital projects.💻✨</h3>
 
 ###
 
@@ -11,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicia3194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -39,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href="alicia3103" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
