@@ -55,7 +55,4 @@
 </div>
 
 ###
-/* <br clear="both"> 
-<img src="https://github.com/alicia3194/alicia3194/blob/main/.github/workflows/snake.yml" alt="Snake animation" /> */
 
-###
