@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width="200">
+  <h1 align="center"> Full Stack Developer: Compiling Dreams 💡</h1>
+  <h3 align="center"> Hello, I'm Alicia Cortínez López, a Full Stack Development student merging creativity and logic to breathe life into digital projects. From crafting captivating interfaces to implementing complex backend logic, I am in a constant state of learning and construction. Join me on this coding journey as we discover together the limitless potential of web development! 💻✨</h3>
+</div>
 
 <!--
 **alicia3194/alicia3194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
