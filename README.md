@@ -1,10 +1,13 @@
-<h2 align="left">Hi 👋! I'm Alicia Cortínez López, a Full Stack Development student merging creativity and logic to breathe life into digital projects.💻✨</h2>
+
+<h2 align="left">Hi 👋! I'm Alicia Cortínez López.</h2>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif"  />
-</div>
+<h3 align="left">Full Stack Development student merging creativity and logic to breathe life into digital projects.💻✨</h3>
+
+###
+
+<img align="right" height="167" src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif"  />
 
 ###
 
@@ -36,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href="alicia3103" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
