@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/alicia3194/alicia3194/blob/main/Captura%20de%20pantalla%202023-11-12%20a%20las%2017.24.04.png" alt="Logo" width="500px">
+  <img src="https://github.com/alicia3194/alicia3194/blob/main/Captura%20de%20pantalla%202023-11-12%20a%20las%2017.24.04.png" alt="Logo" width="600px">
 </p>
 
 ###
 
-<h2 align="left">Hi 👋! I'm Alicia Cortínez López.</h2>
+<h1 align="center">Hi 👋! I'm Alicia Cortínez López.</h2>
 <h3 align="center">Full Stack Development student merging creativity and logic to breathe life into digital projects.💻✨</h3>
 
 ###
