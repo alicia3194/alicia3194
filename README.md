@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/alicia3194/alicia3194/blob/main/Captura%20de%20pantalla%202023-11-12%20a%20las%2017.24.04.png" alt="Logo" width="600px">
-</p>
 
 ###
 
